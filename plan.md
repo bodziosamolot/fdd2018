@@ -17,4 +17,8 @@
 # 14. (Problem) Co z danymi o użytkowniku? 
 # 15. OpenId.
 # 16. (Problem) Jak pogodzić OpenId z Oauth2?
-# 17. OpenId Connect.
+# 17. OpenId Connect & Hybrid Flow.
+# 18. (Problem) mam to implementować sam?
+# 19. IdentityServer 4.
+# 20. (Problem) co z kontami użytkowników?
+# 21. Aspnet Core Identity + Scaffolding.
